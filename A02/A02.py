@@ -3,6 +3,7 @@ import threading, time
 
 class CounterThread(threading.Thread):
     """
+    Autor: Jakob Grieshofer
     Diese Klasse stellt einen Thread dar,
     welcher ein ihm übergebene Wort ver- beziehungseweise
     entschlüsselt.
